@@ -52,7 +52,7 @@ Generate a list of all trains and the number of passengers that have booked for 
 
 Search for passengers booked to travel on a specific train, providing their first and last names.
 
-Query 6 This code connects to a database named "rrs.db", and then performs several SQL queries to delete a passenger record from the "Booked" table and update the status of the next passenger in the waitlist to "Booked". .
+### Query 6: This code connects to a database named "rrs.db", and then performs several SQL queries to delete a passenger record from the "Booked" table and update the status of the next passenger in the waitlist to "Booked". .
 
 Contributors
 ------------
